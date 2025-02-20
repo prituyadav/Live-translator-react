@@ -1,1 +1,1 @@
-Welcomet to the translator🤗
+Welcome to the translator🤗
