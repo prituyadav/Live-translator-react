@@ -119,7 +119,7 @@ function App() {
             <div>
                 <h3>Recent Translations</h3>
                 <ol style={{ listStylePosition: "inside", display: "inline-block", textAlign: "left", padding: "0" }}>
-                    {history.map((url, index) => (
+                    {history?.map((url, index) => (
                         <li key={index}>
                             <audio controls>
                                 <source src={url} type="audio/mpeg" />
